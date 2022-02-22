@@ -4,10 +4,10 @@
                         <div class="col-12 col-lg-6">
                     <div class="row">
                         <div class="col-4" style="text-align: right;">
-                            <h3 class="dynamic-title" >Download physical things</h3>
-                            <p class="dynamic-title float-end">With your data plans, you can download as much things
-                                as you can the same way you download a video pictures
-                                or apps
+                            <h3 class="dynamic-title" >Get and Create items</h3>
+                            <p class="dynamic-title float-end">
+                                Create and share stunning designs.
+                                Equip your collectibles and products.
                             </p>
                         </div>
                         <div class="col-8">
@@ -18,7 +18,7 @@
             <div class="col-12 col-lg-6">
                         <div class="row my-lg-5 py-lg-5">
                             <div class="col-8">
-                                <img :src="'../img/undraw_private_data_re_4eab.svg'" alt="" srcset="" class="col-12">
+                                <img :src="'../img/undraw_fingerprint_re_uf3f.svg'" alt="" srcset="" class="col-12">
                             </div>
                             <div class="col-4" style="text-align: left;">
                                 <h3 class="dynamic-title" >Tokenize anything</h3>

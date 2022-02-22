@@ -16,7 +16,7 @@
                 </div>
             </div>
             <div class="col-12 col-lg-6">
-                <h2 class="dynamic-title py-lg-5">All these only with an internet connection... and so on
+                <h2 class="dynamic-title py-lg-5">All these only with an internet connection... and so
                     much more
                 </h2>
             </div>
