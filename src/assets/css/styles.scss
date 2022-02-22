@@ -1,0 +1,39 @@
+@import 'theme-colors';
+
+*{
+    font-family: 'Dosis', sans-serif;
+}
+
+html, body {
+    height: 100%;
+}
+
+.app-background {
+    background-color: var(--app-background-color) !important;
+}
+
+.dynamic-title {
+    color: var(--dynamic-title-color) !important;
+}
+
+.dynamic-subtitle {
+    color: var(--dynamic-subtitle-color) !important;
+    padding-top: 10px;
+}
+
+input.theme-switch {
+    display: none;
+}
+
+.theme-switch {
+    cursor: pointer;
+}
+
+input.theme-switch:not(:checked) + label:hover {
+    cursor: pointer;
+}
+
+input.theme-switch + label:active,
+input.theme-switch:checked + label {
+    cursor: pointer;
+}
