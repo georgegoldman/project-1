@@ -34,7 +34,7 @@ return {
     
 },
    mounted() {
-    document.title = 'Project 1'
+    document.title = 'Trie'
 
     let bodyElement = document.body
     bodyElement.classList.add("app-background")

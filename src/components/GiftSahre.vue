@@ -7,7 +7,7 @@
                         <img :src="'../img/undraw_gift_box_re_vau4.svg'" alt="" srcset="" class="col-12">
                     </div>
                     <div class="col-6">
-                        <h3 class="dynamic-title">Gift Share and Conncet</h3>
+                        <h3 class="dynamic-title">Gift Share and Connect</h3>
                         <p class="dynamic-title">You won't just use but share to others how 
                             it feels using. You can also gift without a gift card and connect with more
                             people on what you love in the community

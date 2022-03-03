@@ -7,7 +7,7 @@
             </div>
             <div class="col-12 col-lg-4 px-5">
                 <div class=" py-5">
-                    <h1 class="dynamic-title ">Unlimited Everthing <br>For everyone</h1>
+                    <h1 class="dynamic-title ">Unlimited Everything <br>For everyone</h1>
                 </div>
                 <div class=" py-2 ">
             
